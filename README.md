@@ -20,10 +20,10 @@ A CV app with where the user can show his\her projects, skills, breif about them
     ![Screenshot_1700028789](https://github.com/3badiiM/Project-5/assets/115943308/ce70db95-d5b6-42dc-85cb-39c04383606f)
 
 6. Edit about:
-    ![Screenshot_1700028789](https://github.com/3badiiM/Project-5/assets/115943308/9dc8c867-446a-4f57-8a27-37849130ef3b)
+    ![Screenshot_1700028810](https://github.com/3badiiM/Project-5/assets/115943308/c5ce61ca-1840-46f3-95ab-1d437682396a)
 
 7. Edit education:
-    ![Screenshot_1700028789](https://github.com/3badiiM/Project-5/assets/115943308/818c4e4e-384f-4774-b1bf-90728d9e3477)
+    ![Screenshot_1700028825](https://github.com/3badiiM/Project-5/assets/115943308/39c5b0f8-e201-4cef-9939-3a89fee3f4e0)
 
 8. Edit projects:
     ![Screenshot_1700028843](https://github.com/3badiiM/Project-5/assets/115943308/66c605ee-8349-43b7-bd49-86a260977fd8)
