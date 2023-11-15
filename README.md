@@ -38,4 +38,4 @@ A CV app with where the user can show his\her projects, skills, breif about them
     ![Screenshot_1700028916](https://github.com/3badiiM/Project-5/assets/115943308/93470559-b03c-498b-8761-2fe82f7eab50)
 
 ## Note:
-   The working APIs are in the following pages (form bottm sheet edit education, edit projects, edit skills and edit social with get API only). And the API to get all users is applyed and but not working IDK         whey. And lastly the only Auth api applyed is the regiteration.
+   The working APIs are in the following pages (form bottm sheet edit education, edit projects, edit skills and edit social with get API only). And the API to get all users is applyed but not working IDK         whey. And lastly, the only Auth api applyed is the regiteration.
